@@ -53,5 +53,5 @@ Mkfile.old
 dkms.conf
 
 # zips and pdf from actual submission
-.zip
-.pdf
+*.zip
+*.pdf
