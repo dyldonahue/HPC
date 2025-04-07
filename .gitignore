@@ -55,3 +55,6 @@ dkms.conf
 # zips and pdf from actual submission
 *.zip
 *.pdf
+
+.vscode
+
